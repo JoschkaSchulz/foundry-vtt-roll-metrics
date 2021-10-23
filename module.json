@@ -1,0 +1,8 @@
+{
+    "name": "roll-metrics",
+    "title": "Roll Metrics",
+    "description": "Just get some metrics from the current session for a review after the round.",
+    "author": "Thathalas",
+    "version": "0.0.1",
+    "minimumCoreVersion": "0.5.0"
+  }
